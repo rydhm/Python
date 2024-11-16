@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Python/mlruns/809121685230528168/520d543faa4e467e8da51e2261dc9820/artifacts
+end_time: 1731756840537
+entry_point_name: ''
+experiment_id: '809121685230528168'
+lifecycle_stage: active
+run_id: 520d543faa4e467e8da51e2261dc9820
+run_name: RF_Model_n150_d5
+run_uuid: 520d543faa4e467e8da51e2261dc9820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731756834763
+status: 3
+tags: []
+user_id: rydhm
